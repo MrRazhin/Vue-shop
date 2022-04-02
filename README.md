@@ -1,4 +1,4 @@
-# ktohodit
+# Vue-shop
 
 ## Project setup
 ```
