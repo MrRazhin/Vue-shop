@@ -2,7 +2,7 @@
 
 # https://mrrazhin.github.io/Vue-shop/#/
 
-
+Интернет магазин на vue.js с использованием rest api.
 
 ## Установка
 
